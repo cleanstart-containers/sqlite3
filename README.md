@@ -47,7 +47,6 @@ docker pull --platform linux/arm64 cleanstart/sqlite3:latest
 **Resources & Documentation**
 Essential links and resources for further information
 
--  **CleanStart Website**: https://www.cleanstart.com⁠
 -  **SQLite Documentation**: https://www.sqlite.org/docs.html\
 - **CleanStart All Images**: https://images.cleanstart.com
 - **CleanStart Community Images**: https://hub.docker.com/u/cleanstart
