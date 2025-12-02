@@ -52,13 +52,13 @@ Essential links and resources for further information
 
 **Reference:**
 
-CleanStart All Images: https://images.cleanstart.com
+- **CleanStart All Images**: https://images.cleanstart.com
  
-CleanStart Community Images: https://hub.docker.com/u/cleanstart
+- **CleanStart Community Images**: https://hub.docker.com/u/cleanstart
  
-View Provenance, Specifications, SBOM, Signature at https://images.cleanstart.com/images/sqlite3
+- **View Provenance, Specifications, SBOM, Signature at** https://images.cleanstart.com/images/sqlite3
  
-Other location for Community image: https://hub.docker.com/r/cleanstart/sqlite3
+- **Other location for Community image**: https://hub.docker.com/r/cleanstart/sqlite3
 
 
 ---
