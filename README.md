@@ -1,9 +1,8 @@
-**Container Documentation for Sqlite3**
+- *Container Documentation for Sqlite3**
 
 Enterprise-ready SQLite3 container image providing a self-contained, serverless, zero-configuration, transactional SQL database engine. Optimized for embedded systems, application testing, and lightweight database needs with ACID compliance and high reliability.
 
-
-**Key Features**
+- *Key Features**
 Core capabilities and strengths of this container
 
 - Zero-configuration, serverless database engine
@@ -11,7 +10,7 @@ Core capabilities and strengths of this container
 - Security-hardened base configuration
 - Multi-architecture support
 
-**Common Use Cases**
+- *Common Use Cases**
 Typical scenarios where this container excels
 
 - Embedded database applications
@@ -19,7 +18,7 @@ Typical scenarios where this container excels
 - Local data storage and caching
 - Lightweight database solutions
 
-**Pull Latest Image**
+- *Pull Latest Image**
 Download the container image from the registry
 
 ```bash
@@ -30,31 +29,31 @@ docker pull cleanstart/sqlite3:latest
 docker pull cleanstart/sqlite3:latest-dev
 ```
 
-**Basic Run**
+- *Basic Run**
 Run the container with basic configuration
 
 ```bash
 docker run -it --name sqlite3-test cleanstart/sqlite3:latest-dev
 ```
 
-**Multi-Platform Images**
+- *Multi-Platform Images**
 
 ```bash
 docker pull --platform linux/amd64 cleanstart/sqlite3:latest
 docker pull --platform linux/arm64 cleanstart/sqlite3:latest
 ```
 
-**
-### 
-### Resources
+- *
 
-- Official Documentation: https://www.sqlite.org/docs.html
-- View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/sqlite3
-- Docker Hub: https://hub.docker.com/r/cleanstart/sqlite3
-- CleanStart All Images: https://images.cleanstart.com
-- CleanStart All Community Images: https://hub.docker.com/u/cleanstart
+###
 
----
+## Resources
+
+- **Official Documentation:** https://www.sqlite.org/docs.html
+- **Provenance / SBOM / Signature:** https://images.cleanstart.com/images/sqlite3
+- **Docker Hub:** https://hub.docker.com/r/cleanstart/sqlite3
+- **CleanStart All Images:** https://images.cleanstart.com
+- **CleanStart Community Images:** https://hub.docker.com/u/cleanstart
 
 ### Vulnerability Disclaimer
 
