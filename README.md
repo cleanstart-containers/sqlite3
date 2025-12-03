@@ -45,14 +45,14 @@ docker pull --platform linux/arm64 cleanstart/sqlite3:latest
 ```
 
 **
-### Resources & Documentation  
-Essential links and resources for further information:
+### 
+### Resources
 
-- CleanStart Website: https://www.cleanstart.com
+- Official Documentation: https://www.sqlite.org/docs.html
 - View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/sqlite3
+- Docker Hub: https://hub.docker.com/r/cleanstart/sqlite3
 - CleanStart All Images: https://images.cleanstart.com
-- CleanStart Community Images: https://hub.docker.com/u/cleanstart
-- Other location for Community image: https://hub.docker.com/r/cleanstart/sqlite3
+- CleanStart All Community Images: https://hub.docker.com/u/cleanstart
 
 ---
 
