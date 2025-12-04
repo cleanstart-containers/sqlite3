@@ -26,23 +26,23 @@ Typical scenarios where this container excels:
 
 Download the container image from the registry:
 ```bash
-docker pull cleanstart/sqlite3:latest
+docker pull ghcr.io/cleanstart-containers/sqlite3:latest
 ```
 ```bash
-docker pull cleanstart/sqlite3:latest-dev
+docker pull ghcr.io/cleanstart-containers/sqlite3:latest-dev
 ```
 
 ### Basic Run
 
 Run the container with basic configuration:
 ```bash
-docker run -it --name sqlite3-test cleanstart/sqlite3:latest-dev
+docker run -it --name sqlite3-test ghcr.io/cleanstart-containers/sqlite3:latest-dev
 ```
 
 ## Multi-Platform Images
 ```bash
-docker pull --platform linux/amd64 cleanstart/sqlite3:latest
-docker pull --platform linux/arm64 cleanstart/sqlite3:latest
+docker pull --platform linux/amd64 ghcr.io/cleanstart-containers/sqlite3:latest
+docker pull --platform linux/arm64 ghcr.io/cleanstart-containers/sqlite3:latest
 ```
 
 ## Resources
