@@ -20,7 +20,7 @@ kubectl apply -f deployment.yaml
 **Verify resources:**
 
 ```bash
-kubectl get pods -n sqlite-sample
+kubectl get pods -n sqlite-sample -w
 ```
 
 You should see a pod like:
@@ -82,6 +82,12 @@ SELECT * FROM users;
 
 ```bash
 .quit
+```
+
+2. Delete Deployment
+
+```bash
+kubectl delete -f deployment.yaml
 ```
 
 **📌 Notes**
