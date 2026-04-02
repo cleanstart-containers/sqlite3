@@ -50,7 +50,7 @@ docker pull --platform linux/arm64 ghcr.io/cleanstart-containers/sqlite3:latest
 - **Official Documentation:** https://www.sqlite.org/docs.html
 - **Provenance / SBOM / Signature:** https://images.cleanstart.com/images/sqlite3
 - **Docker Hub:** https://hub.docker.com/r/cleanstart/sqlite3
-- **CleanStart All Images:** https://images.cleanstart.com
+- **CleanStart All Images:** https://images.cleanstart.com/images/sqlite3/details
 - **CleanStart Community Images:** https://hub.docker.com/u/cleanstart
 
 ## Vulnerability Disclaimer
